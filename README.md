@@ -1,7 +1,7 @@
 # YoutubeUI
 ON-GOING PROJECT
 
-Saya membuat tampilan YouTube menggunakan Xcode dan bahasa SwiftUI untuk iOS
+Saya membuat tampilan YouTube menggunakan editor Xcode dan bahasa SwiftUI untuk iOS
 
 Contoh tampilan dapat dilihat pada gambar dibawah
 
